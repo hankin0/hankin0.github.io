@@ -14,12 +14,12 @@ body {
     font-family: 'Arial';
     margin-left:auto; 
     margin-right:auto; 
-    width:960px;
+    width:970px;
     background-color:#ffffff;
 }
 
 #wrap { 
-    width: 1000px; 
+    width: 970px; 
     margin: 0 auto; 
 }
 
