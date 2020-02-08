@@ -76,6 +76,7 @@ img.ex2 {
 .tabcontent {
     background-color: #ffffff;
     // display: none;
+    font-size: small;
     padding: 6px 12px;
     border: 1px solid #ccc;
     border-top: none;
