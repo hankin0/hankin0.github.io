@@ -5,3 +5,7 @@ body {
     margin-left:auto;
     margin-right:auto;
 }
+
+p.intro-text {
+  padding-left: 50px;
+}
