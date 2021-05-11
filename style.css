@@ -80,7 +80,7 @@ img.ex2 {
     padding: 6px 12px;
     border: 1px solid #ccc;
     border-top: none;
-    height: 475px;
+    height: 100%;
     margin-left:auto;
     margin-right:auto;
 }
